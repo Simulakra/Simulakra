@@ -1,6 +1,7 @@
 ### Hi there 👋
 #### I'm just here to make some changes. 💪🏼
 
+<!--
 <a href="https://berkedundar.com">
   <table style="border: none !important;">
   <tr>
@@ -13,3 +14,4 @@
     </tr>
   </table>
     </a>
+-->
